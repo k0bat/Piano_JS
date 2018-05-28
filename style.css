@@ -1,0 +1,71 @@
+/* -------------CLASSES SPECIFIQUES------------------
+/* ------------------------------------------------*/
+
+#touche_do{background-color: white}
+
+
+/* -------------CLASSES GENERIQUES------------------
+/* ------------------------------------------------
+/* DISPLAY */
+
+.flex{display:flex;}
+.block{display:block}
+.column{flex-direction: column;}
+.centerX{justify-content: center;}
+.centerY{align-items: center;}
+
+
+/*----- BACKGROUND */
+
+.Cover{background-size: cover;}
+.Hidden{overflow: hidden;}
+.bgRose{background-color:rgb(255,221,213);}
+.bgRouge{background-color:red;}
+.Rouge{color: red}
+
+/*----- FONT-SIZE + FONT FAMILY */
+
+.Raleway{font-family: 'Raleway', sans-serif;}
+.Montserrat{font-family: 'Montserrat', sans-serif;}
+.txtCenter{text-align: center;}
+.Bold{font-weight: bold;}
+.Semibold{font-weight: 600;}
+.Regular{font-weight: 400;}
+.Extralight{font-weight: 200;}
+
+/*----- MARGIN + PADDING */
+
+.Nomargin{margin:0px;}
+.Nopadding{padding:0px;}
+
+.pl20prc{padding-left: 20%;}
+.pr20prc{padding-right: 20%;}
+.pt15prc{padding-top: 15%;}
+
+.ml20prc{margin-left: 20%;}
+.mr20prc{margin-right: 20%;}
+.mt15prc{margin-top: 15%;}
+
+/*----- WIDTH + HEIGHT */
+
+.px100{width: 100px;height: 100px;}
+.w50v{width: 50vw;}
+.w15v{width: 15vw;}
+.w3v{width: 3vw;}
+.h50v{height: 50vh;}
+
+/*----- POSITION */
+
+.Absolute{position: absolute;}
+.CentreVertical{margin-left: 50vw;transform: translateX(-50%);}
+
+/*----- BORDER + SEPARATOR */
+
+
+.contour{border: 1px solid black;}
+.Trait{border-bottom: 1px solid black;}
+.Cercle{border-radius: 50%}
+
+
+/*--------------------------------------------------------------------------------------------------------------------------------------------CLASSES SPECIFIQUE-----------------*/
+
